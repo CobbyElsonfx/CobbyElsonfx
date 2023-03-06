@@ -1,8 +1,7 @@
 ### Hi there 👋
+### I'm Francis Andoh 🙋🏼 Glad to see you😃
 
-<!--
-**CobbyElsonfx/CobbyElsonfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Using languages like JavaScript, Ruby, HTML, and CSS as well as frameworks like React, Node.js, and Rails, I have one year of experience as a full-stack web developer. Excellent problem-solving and attention-to-detail abilities, which led to the successful creation and upkeep of numerous web applications. Outstanding communication abilities and the capacity to work in a fast-paced setting
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
