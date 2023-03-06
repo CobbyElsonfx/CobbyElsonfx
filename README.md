@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 -->
 
 
-<ins>#🛠  Tech Stack</ins>
 
-JavaScript  React  Redux  PHP  Node.js  Express.js  Ruby  Rails  Mongodb  PosgreSQL  MySQL  Bootstrap HTML  Auth0  CSS  Git  GitHub  Visual Studio Code 
