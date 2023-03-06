@@ -11,3 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about  HTML,CSS,JAVASCRIPT,NODEJS,EXPRESSJS,PHP,LARAVEL,MONGODB,REACT
 - ⚡ Fun fact: When I successfully fixing a bug, that is the one thing that brings me joy.
 -->
+
+
+<ins>#🛠  Tech Stack</ins>
+🛠  Tech Stack
+
+JavaScript  React  Redux  PHP  Node.js  Express.js  Ruby  Rails  Mongodb  PosgreSQL  MySQL  Bootstrap HTML  Auth0  CSS  Git  GitHub  Visual Studio Code 
