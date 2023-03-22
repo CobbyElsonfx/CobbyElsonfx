@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on  tiktok clone application
 - 📫 You can shoot me an email at  andohfrancis9187@gmail.com I'll try to respond as soon as I can
 - 💬 Ask me about  HTML,CSS,TAILWINDCSS,JAVASCRIPT,NODEJS,EXPRESSJS,PHP,LARAVEL,MONGODB,REACT
-- ⚡ Fun fact: When I successfully fixing a bug, that is the one thing that brings me joy.
+- ⚡ Fun fact: When I successfully fix a bug, that is the one thing that brings me joy.
 -->
 
 
