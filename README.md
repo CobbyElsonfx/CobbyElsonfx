@@ -2,7 +2,11 @@
 # I'm Francis Andoh 🙋🏼 Glad to see you😃
 
 # 💫 About Me:
-Using languages like JavaScript, Ruby, HTML, and CSS as well as frameworks like React, Node.js, and Rails, I have one year of experience as a full-stack web developer. Excellent problem-solving and attention-to-detail abilities, which led to the successful creation and upkeep of numerous web applications. Outstanding communication abilities and the capacity to work in a fast-paced setting Here are some ideas to get you started: #MORE ABOUT ME<br><br>    🔭 I’m currently working on a school library mern stack application<br>    🌱 I’m currently learning react native<br>    👯 I’m looking to collaborate on tiktk clone application<br>    📫 You can shoot me an email at andohfrancis9187@gmail.com I'll try to respond as soon as I can<br>    💬 Ask me about HTML,CSS,TAILWINDCSS,JAVASCRIPT,NODEJS,EXPRESSJS,PHP,LARAVEL,MONGODB,REACT<br>    ⚡ Fun fact: When I successfully fix a bug, that is the one thing that brings me joy. --><br>
+As a fullstack developer with 1 year of experience, I have always been drawn towards taking on challenging tasks that require me to push my limits and think creatively. I enjoy the thrill of solving complex problems and the satisfaction that comes with creating something innovative.
+
+What sets me apart from others is my ability to multitask and manage multiple projects simultaneously, ensuring that each task is completed efficiently and effectively. I have a keen eye for detail and am constantly seeking ways to improve my skills and stay up-to-date with the latest technologies.
+
+I believe that my passion for technology, combined with my determination and dedication to my craft, make me an ideal candidate for any development project. If you're looking for a reliable, talented and driven fullstack developer, I'm your guy!: #MORE ABOUT ME<br><br>    🔭 I’m currently working on a school library mern stack application<br>    🌱 I’m currently learning react native<br>    👯 I’m looking to collaborate on tiktk clone application<br>    📫 You can shoot me an email at andohfrancis9187@gmail.com I'll try to respond as soon as I can<br>    💬 Ask me about HTML,CSS,TAILWINDCSS,JAVASCRIPT,NODEJS,EXPRESSJS,PHP,LARAVEL,MONGODB,REACT<br>    ⚡ Fun fact: When I successfully fix a bug, that is the one thing that brings me joy. --><br>
 
 
 ## 🌐 Socials:
