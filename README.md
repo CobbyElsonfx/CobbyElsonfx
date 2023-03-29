@@ -19,8 +19,7 @@ I believe that my passion for technology, combined with my determination and ded
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CobbyElsonfx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CobbyElsonfx&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CobbyElsonfx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/home)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
