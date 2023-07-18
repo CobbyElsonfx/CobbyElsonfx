@@ -2,11 +2,17 @@
 # I'm Francis Andoh 🙋🏼 Glad to see you😃
 
 # 💫 About Me:
-As a fullstack developer with 1 year of experience, I have always been drawn towards taking on challenging tasks that require me to push my limits and think creatively. I enjoy the thrill of solving complex problems and the satisfaction that comes with creating something innovative.
+Greetings! I'm Francis Andoh, and my ultimate goal is to become an exceptional Software Developer who makes a global impact. 🚀
 
-What sets me apart from others is my ability to multitask and manage multiple projects simultaneously, ensuring that each task is completed efficiently and effectively. I have a keen eye for detail and am constantly seeking ways to improve my skills and stay up-to-date with the latest technologies.
+I've had the privilege of working as a programming facilitator, guiding and mentoring a talented team of 4 students in the art of JavaScript, HTML, and CSS. It was truly fulfilling to witness their growth and passion for coding. 💡
 
-I believe that my passion for technology, combined with my determination and dedication to my craft, make me an ideal candidate for any development project. If you're looking for a reliable, talented and driven fullstack developer, I'm your guy!: #MORE ABOUT ME<br><br>    🔭 I’m currently working on a school library mern stack application<br>    🌱 I’m currently mastering PHP<br>    👯 I’m looking to collaborate on  GPA storage app that helps college student  in storing  thier GPA for each semester<br>    📫 You can shoot me an email at andohfrancis9187@gmail.com I'll try to respond as soon as I can<br>    💬 Ask me about HTML,CSS,TAILWINDCSS,JAVASCRIPT,NODEJS,EXPRESSJS,PHP,LARAVEL,MONGODB,REACT<br>    ⚡ Fun fact: When I successfully fix a bug, that is the one thing that brings me joy. --><br>
+During my time as a pupil teacher intern, I immersed myself in various valuable skills such as human relations, time management, leadership, inclusivity, and public speaking. These experiences not only shaped my character but also ignited a deep passion for computing and its potential to transform lives. 💪
+
+At present, I'm dedicated to my studies at Microverse, an esteemed online training school. I spend 8 hours a day collaborating remotely with fellow developers, refining my communication skills and embracing the power of effective teamwork. 🌐
+
+The opportunity to work with a company that shares my commitment to making a meaningful societal impact fills me with excitement. I'm eager to contribute my skills and play a part in driving development and meeting the needs of our ever-changing world. 🌍
+
+I take great pride in the steps I'm taking towards achieving my ambitions, and I'm determined to continue this journey of growth and excellence. Together, let's create remarkable solutions and make a difference! 🌟. --><br>
 
 
 ## 🌐 Socials:
