@@ -2,7 +2,7 @@
 # I'm Francis Andoh 🙋🏼 Glad to see you😃
 
 # 💫 About Me:
-Greetings! I'm Francis Andoh, and my ultimate goal is to become an exceptional Software Developer who makes a global impact. 🚀
+Greetings! I'm Francis Andoh, and my ultimate goal is to become an exceptional Full Stack Developer who makes a global impact. 🚀
 
 I've had the privilege of working as a programming facilitator, guiding and mentoring a talented team of 4 students in the art of JavaScript, HTML, and CSS. It was truly fulfilling to witness their growth and passion for coding. 💡
 
