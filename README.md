@@ -4,7 +4,7 @@
 # 💫 About Me:
 Greetings! I'm Francis Andoh, and my ultimate goal is to become an exceptional Full Stack Developer who makes a global impact. 🚀
 
-I've had the privilege of working as a programming facilitator, guiding and mentoring a talented team of 4 students in the art of JavaScript, HTML, and CSS. It was truly fulfilling to witness their growth and passion for coding. 💡
+I've had the privilege of working as a programming facilitator, guiding and mentoring a talented team of 4 students in the art of JavaScript. It was truly fulfilling to witness their growth and passion for coding. 💡
 
 During my time as a pupil teacher intern, I immersed myself in various valuable skills such as human relations, time management, leadership, inclusivity, and public speaking. These experiences not only shaped my character but also ignited a deep passion for computing and its potential to transform lives. 💪
 
@@ -12,7 +12,7 @@ At present, I'm dedicated to my studies at Microverse, an esteemed online traini
 
 The opportunity to work with a company that shares my commitment to making a meaningful societal impact fills me with excitement. I'm eager to contribute my skills and play a part in driving development and meeting the needs of our ever-changing world. 🌍
 
-I take great pride in the steps I'm taking towards achieving my ambitions, and I'm determined to continue this journey of growth and excellence. Together, let's create remarkable solutions and make a difference! 🌟: #MORE ABOUT ME<br><br>       🌱 I’m currently learning laravel aside Microverse<br>    👯 I’m looking to collaborate on a general student portal , which allows student to keep track of their progress in learning<br>    📫 You can shoot me an email at andohfrancis9187@gmail.com I'll try to respond as soon as I can<br>    💬 Ask me about HTML,CSS,TAILWINDCSS,JAVASCRIPT,NODEJS,EXPRESSJS,PHP,LARAVEL,MONGODB,REACT<br>    ⚡ Fun fact: When I successfully fix a bug, that is the one thing that brings me joy. --><br>
+I take great pride in the steps I'm taking towards achieving my ambitions, and I'm determined to continue this journey of growth and excellence. Together, let's create remarkable solutions and make a difference! 🌟: #MORE ABOUT ME<br><br>       🌱 I’m currently learning laravel aside Microverse<br>    👯 I’m looking to collaborate on a general student portal , which allows student to keep track of their progress in learning<br>    📫 You can shoot me an email at andohfrancis9187@gmail.com I'll try to respond as soon as I can<br>    💬 Ask me about HTML,CSS,TAILWINDCSS,JAVASCRIPT,Ruby, Rails, NODEJS,EXPRESSJS,PHP,MONGODB,REACT<br>    ⚡ Fun fact: When I successfully fix a bug, that is the one thing that brings me joy. --><br>
 
 
 ## 🌐 Socials:
