@@ -2,17 +2,13 @@
 # I'm Francis Andoh 🙋🏼 Glad to see you😃
 
 # 💫 About Me:
-Greetings! I'm Francis Andoh, and my ultimate goal is to become an exceptional Full Stack Developer who makes a global impact. 🚀
+👨‍💻Early spark: Francis, a tech enthusiast, started his coding journey at 16, tinkering with computers in his mom's printing shop. This ignited his lifelong love for coding
 
-I've had the privilege of working as a programming facilitator, guiding and mentoring a talented team of 4 students in the art of JavaScript. It was truly fulfilling to witness their growth and passion for coding. 💡
+💡Learning and growth: Despite financial challenges, Francis pursued his passion for technology through an ICT college degree, self-learning Python, and later honing his skills in full-stack web development at Brightfield Tech Academy
 
-During my time as a pupil teacher intern, I immersed myself in various valuable skills such as human relations, time management, leadership, inclusivity, and public speaking. These experiences not only shaped my character but also ignited a deep passion for computing and its potential to transform lives. 💪
+🌐Global connections and experience: Francis joined Microverse, a prestigious online coding school, collaborating with international peers. He also gained practical experience as a Backend Developer intern, working on real-world projects.
 
-At present, I'm dedicated to my studies at Microverse, an esteemed online training school. I spend 8 hours a day collaborating remotely with fellow developers, refining my communication skills and embracing the power of effective teamwork. 🌐
-
-The opportunity to work with a company that shares my commitment to making a meaningful societal impact fills me with excitement. I'm eager to contribute my skills and play a part in driving development and meeting the needs of our ever-changing world. 🌍
-
-I take great pride in the steps I'm taking towards achieving my ambitions, and I'm determined to continue this journey of growth and excellence. Together, let's create remarkable solutions and make a difference! 🌟: #MORE ABOUT ME<br><br>       🌱 I’m currently learning laravel aside Microverse<br>    👯 I’m looking to collaborate on a general student portal , which allows student to keep track of their progress in learning<br>    📫 You can shoot me an email at andohfrancis9187@gmail.com I'll try to respond as soon as I can<br>    💬 Ask me about HTML,CSS,TAILWINDCSS,JAVASCRIPT,Ruby, Rails, NODEJS,EXPRESSJS,PHP,MONGODB,REACT<br>    ⚡ Fun fact: When I successfully fix a bug, that is the one thing that brings me joy. --><br>
+📚Giving back and passion: Today, Francis gives back as an IT/Teaching Assistant, sharing his knowledge of MySQL, C++, and more. He believes in the power of technology to change lives and is eager to contribute to impactful projects as a passionate and goal-oriented software developer. 🌟: #MORE ABOUT ME<br><br>       🌱 I’m currently learning laravel aside Microverse<br>    👯 I’m looking to collaborate on a general student portal , which allows student to keep track of their progress in learning<br>    📫 You can shoot me an email at andohfrancis9187@gmail.com I'll try to respond as soon as I can<br>    💬 Ask me about HTML,CSS,TAILWINDCSS,JAVASCRIPT,Ruby, Rails, NODEJS,EXPRESSJS,PHP,MONGODB,REACT<br>    ⚡ Fun fact: When I successfully fix a bug, that is the one thing that brings me joy. --><br>
 
 
 ## 🌐 Socials:
