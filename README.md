@@ -2,7 +2,7 @@
 # I'm Francis Andoh 🙋🏼 Glad to see you😃
 
 # 💫 About Me:
-👨‍💻Early spark: Francis, a tech enthusiast, started his coding journey at 16, tinkering with computers in his mom's printing shop. This ignited his lifelong love for coding
+👨‍💻Early spark: Francis, a tech enthusiast, started his coding journey at 18, tinkering with computers in his mom's printing shop. This ignited his lifelong love for coding
 
 💡Learning and growth: Despite financial challenges, Francis pursued his passion for technology through an ICT college degree, self-learning Python, and later honing his skills in full-stack web development at Brightfield Tech Academy
 
